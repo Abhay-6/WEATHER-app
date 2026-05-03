@@ -1,2 +1,14 @@
-# WEATHER-app
-A responsive and user-friendly weather application that provides real-time weather information for any city using the OpenWeather API. This project allows users to search for a location and instantly view important weather details such as temperature, humidity, wind speed, and overall weather conditions.
+# Weather Forecast Web App
+
+This is a responsive weather application that shows real-time weather data using OpenWeather API.
+
+## Features
+- Search by city
+- Real-time temperature & humidity
+- Responsive design
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- REST API
